@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+instance/
+
+# Dependencies
+venv/
+/lib/
+/pip-selfcheck.json
+
+# Development server logs
+flask.log
+
+# IDE files
+.vscode/
+*.pydevproject
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Local configuration
+config.py
+
+# API keys and secrets
+api_keys.py
+
+# Log files
+logs/
+
+# Database files
+database.db
+
+# Image files
+*.png
+
+# JSON source files
+*.json
+
+# macOS files
+.DS_Store
